@@ -20,7 +20,7 @@
     </tr>
 </table>
 
-### Linguagens
+### Linguagens e Frameworks
 
 <table>
     <tr>
@@ -32,13 +32,6 @@
         <td><img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width=40 title="NextJS"></td>
     </tr>
 </table>
-
-## Principais projetos
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=esantos1&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/esantos1/dio-lab-open-source)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=esantos1&repo=climanon&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/esantos1/climanon)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=esantos1&repo=bookslist&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/esantos1/bookslist)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=esantos1&repo=todolistflutter&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/esantos1/todolistflutter)
 
 ## Minhas redes
 
