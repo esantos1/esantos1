@@ -35,7 +35,6 @@
 
 ## Minhas redes
 
-[![Perfil DIO](https://img.shields.io/badge/-Perfil%20DIO-cd4d6b?style=for-the-badge)](https://web.dio.me/users/erickgomes_eg94/)
 [![E-mail](https://img.shields.io/badge/-Email-D93025?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:ericksantodev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/ericksantos11/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFF)](https://www.github.com/esantos1/)
