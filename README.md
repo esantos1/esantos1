@@ -33,6 +33,12 @@
     </tr>
 </table>
 
+## Projetos
+
+**Participação em:**
+
+- [D'Boa Seguros](https://dboaseguros.com.br/)
+
 ## Minhas redes
 
 [![E-mail](https://img.shields.io/badge/-Email-D93025?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:ericksantodev@gmail.com)
