@@ -37,6 +37,7 @@
 
 **Participação em:**
 
+- [Everest](http://app-everest.com)
 - [D'Boa Seguros](https://dboaseguros.com.br/)
 
 ## Minhas redes
