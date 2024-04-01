@@ -35,6 +35,10 @@
 
 ## Projetos
 
+**De minha autoria**
+
+- [Márcio Içamentos](https://marcioicamentos.com.br/)
+
 **Participação em:**
 
 - [Everest](http://app-everest.com)
