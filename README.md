@@ -38,6 +38,7 @@
 **De minha autoria**
 
 - [Márcio Içamentos](https://marcioicamentos.com.br/)
+- [Maria Vanda Fisioterapeuta](https://domiciliarfisioterapia.com.br/)
 
 **Participação em:**
 
